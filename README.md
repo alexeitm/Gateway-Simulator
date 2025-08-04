@@ -5,3 +5,7 @@ A light Adapative AUTOSAR-based application in C++ and POSIX:
 * Covers/suports service discovery and IPC or network communication,
 * Includes basic crypto layer for data transit (TLS),
 * Mapped to Adaptive Autosar structure.
+
+Setup development environment:
+* Raspberry Pi 2 model B,
+* Kali Linux
