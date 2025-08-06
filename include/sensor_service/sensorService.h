@@ -1,0 +1,5 @@
+
+#ifndef SENSORSERVICE_H
+#define SENSORSERVICE_H
+
+#endif //SENSORSERVICE_H

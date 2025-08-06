@@ -1,0 +1,5 @@
+add_executable(sensor_main SensorMain.cpp)
+target_link_libraries(sensor_main sensor_service logger config_manager crypto_manager)
+
+add_executable(client_main ClientMain.cpp)
+target_link_libraries(client_main client_app logger config_manager crypto_manager)

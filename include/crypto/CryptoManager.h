@@ -1,0 +1,5 @@
+
+#ifndef CRYPTOMANAGER_H
+#define CRYPTOMANAGER_H
+
+#endif //CRYPTOMANAGER_H
